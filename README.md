@@ -4,4 +4,4 @@ It also supports to parse specific AMI file.
 If it violates your intellectual property rights. Please let me know, I will take off those file..
 If there is any need for improvement, please let me know....
 
-                                         Author: Kenny Wang (e-mail: zzzsss007@gmail.com/kenny.hh.wang@mail.foxconn.com) 
+                                         Author: Kenny Wang (e-mail: zzzsss007@gmail.com) 
