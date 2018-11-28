@@ -1,0 +1,45 @@
+/**
+  Lets all BIOS developer can easily and conveniently to trace EDKII code....
+  If there is any need for improvement, please let me know....
+
+                                         Author: Kenny Wang (e-mail: zzzsss007@gmail.com/kenny.hh.wang@mail.foxconn.com) 
+**/
+
+
+=====================================================================================
+ver.1.00
+- Stable release
+
+=====================================================================================
+ver.0.99
+- add Range Definition(Default Text) with CIF file for read comfortable.
+
+=====================================================================================
+ver.0.98
+- add "PcdsFixedAtBuild" "PcdsPatchableInModule" keyword with dsc file.
+
+=====================================================================================
+ver.0.97
+- add "SourceControl" keyword for veb file.
+- Show line numbers for veb,SD,cif, batch file
+- Support DEF File.
+
+=====================================================================================
+ver.0.96
+- Enhance formatting style for comment line in all EDKII&AMI file.
+- Support comment out command for AMI file.
+- Fix load NULL language to ACPI file.
+- Add Parsing Expression for "ELINK" (ex: "-DFSP_FLAG")
+
+=====================================================================================
+ver.0.95
+- Support AMI file
+
+=====================================================================================
+ver.0.90
+- First release
+
+=====================================================================================
+To do list:
+1. some files related with AMI SMBIOS (*.equ/*.mac/*.asm16/*.aid) need to parse.....
+
