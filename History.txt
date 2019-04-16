@@ -5,7 +5,14 @@
                                          Author: Kenny Wang (e-mail: zzzsss007@gmail.com/kenny.hh.wang@mail.foxconn.com) 
 **/
 
-
+=====================================================================================
+ver.1.1
+- Transfer Tab key to space for all File.
+- Add *.nasm file with x86 Asm Language.
+- Add *.vfi file with VFR Language.
+- Add *.equ/*.asm16/*.mac/*.aid file with x86 asm Language.
+- Add Comment symbol for Python file.
+- Add #include <xxxx> pattern in asl language
 =====================================================================================
 ver.1.00
 - Stable release
@@ -40,6 +47,3 @@ ver.0.90
 - First release
 
 =====================================================================================
-To do list:
-1. some files related with AMI SMBIOS (*.equ/*.mac/*.asm16/*.aid) need to parse.....
-
